@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9C4A86BB5586AFA0E76B05EC15AABC0306B1BED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9C4A86BB5586AFA0E76B05EC15AABC0306B1BED" : 9223372036854775807,
+    "60B57A3BEC7FCBFF20CCC1E64031171DBE2D0AB1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "545463D7-E984-4A76-A999-113A6B61C89E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9C4A86BB5586AFA0E76B05EC15AABC0306B1BED" : "Course\/",
+    "60B57A3BEC7FCBFF20CCC1E64031171DBE2D0AB1" : "Course\/ChessClone\/ChessClone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChessClone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChessClone\/ChessClone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/passtwth\/ChessClone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60B57A3BEC7FCBFF20CCC1E64031171DBE2D0AB1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/passtwth\/Course.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9C4A86BB5586AFA0E76B05EC15AABC0306B1BED"
+    }
+  ]
+}
