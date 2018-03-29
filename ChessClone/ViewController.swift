@@ -125,9 +125,9 @@ class ViewController: UIViewController {
             if shouldPromotePawn() {
                 promote(pawn: myChessGame.getPawnToBePromoted()!, into: "Queen")
             }
-            updateFromScreen()
-            myChessGame.nextTurn()
             
+            myChessGame.nextTurn()
+            updateFromScreen()
         }
     }
     func promote(pawn pawnToBePromoted: Pawn, into pieceName: String) {

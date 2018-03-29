@@ -135,6 +135,7 @@
 				TargetAttributes = {
 					AF3B97A11F0385020024A84E = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 437WSAAS8K;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -312,6 +313,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 437WSAAS8K;
 				INFOPLIST_FILE = ChessClone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Fruit.ChessClone;
@@ -324,6 +326,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 437WSAAS8K;
 				INFOPLIST_FILE = ChessClone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Fruit.ChessClone;
