@@ -9,7 +9,7 @@
 import UIKit
 
 class startscreen: UIViewController {
-    @IBOutlet weak var startGameBTN: UIButton!
+    
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let destVC = segue.destination as? ViewController
@@ -26,7 +26,7 @@ class startscreen: UIViewController {
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-        startGameBTN.layer.cornerRadius = 5
+       
     }
 }
 
