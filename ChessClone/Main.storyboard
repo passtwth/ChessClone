@@ -19,9 +19,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GVl-tz-N95">
-                                <rect key="frame" x="103" y="220.5" width="114" height="39"/>
+                                <rect key="frame" x="106" y="220.5" width="108" height="39"/>
+                                <color key="backgroundColor" red="0.40000000600000002" green="0.80000001190000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                                <state key="normal" title="Double Play"/>
+                                <state key="normal" title="Start Game">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
                                 <connections>
                                     <segue destination="iPg-Sc-J19" kind="show" identifier="multiplayer" id="MYY-pu-xDe"/>
                                 </connections>
@@ -44,6 +47,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="hSx-bm-Wde"/>
                     </view>
+                    <connections>
+                        <outlet property="startGame" destination="GVl-tz-N95" id="WxB-Cx-6b0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="52q-oz-BhY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
